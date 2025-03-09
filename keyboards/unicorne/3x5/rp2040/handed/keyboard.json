@@ -1,0 +1,10 @@
+{
+    "split": {
+        "handedness": {
+            "pin": "GP21"
+        }
+    },
+    "usb": {
+        "pid": "0x1988"
+    }
+}
